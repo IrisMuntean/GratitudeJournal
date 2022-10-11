@@ -1,0 +1,100 @@
+[
+  {
+    "id": "JE01",
+    "date": "2022-10-08T12:02:26Z",
+    "summary": "This is mock gratitude journal entry number 1",
+    "coverPhoto": "https://www.erikastravelventures.com/wp-content/uploads/2018/10/IMG_6858-e1540290382435.jpg",
+    "otherPhotos": [
+      "https://i.assetzen.net/i/aySMFKg5ZAPE/w:1200/h:808/q:70.jpg",
+      "https://www.worldatlas.com/r/w960-q80/upload/db/48/05/shutterstock-411078559.jpg"
+    ],
+    "tags": [
+      "Journal tag #1",
+      "Journal tag #2"
+    ]
+  },
+  {
+    "id": "JE02",
+    "date": "2022-10-08T16:02:26Z",
+    "summary": "This is mock gratitude journal entry number 2",
+    "coverPhoto": null,
+    "otherPhotos": null,
+    "tags": [
+      "Journal tag #1"
+    ]
+  },
+  {
+    "id": "JE03",
+    "date": "2022-10-08T12:02:26Z",
+    "summary": "This is mock gratitude journal entry number 3",
+    "coverPhoto": "https://i.assetzen.net/i/aySMFKg5ZAPE/w:1200/h:808/q:70.jpg",
+    "otherPhotos": [
+      "https://www.worldatlas.com/r/w960-q80/upload/db/48/05/shutterstock-411078559.jpg"
+    ],
+    "tags": null
+  },
+  {
+    "id": "JE04",
+    "date": "2022-10-08T12:02:26Z",
+    "summary": "This is mock gratitude journal entry number 4",
+    "coverPhoto": "https://www.erikastravelventures.com/wp-content/uploads/2018/10/IMG_6858-e1540290382435.jpg",
+    "otherPhotos": null,
+    "tags": [
+      "Journal tag #1",
+      "Journal tag #2"
+    ]
+  },
+  {
+    "id": "JE05",
+    "date": "2022-10-08T12:02:26Z",
+    "summary": "This is mock gratitude journal entry number 5",
+    "coverPhoto": null,
+    "otherPhotos": null,
+    "tags": null
+  },
+  {
+    "id": "JE06",
+    "date": "2022-10-23T12:02:26Z",
+    "summary": "This is mock gratitude journal entry number 6",
+    "coverPhoto": "https://i.assetzen.net/i/aySMFKg5ZAPE/w:1200/h:808/q:70.jpg",
+    "otherPhotos": null,
+    "tags": null
+  },
+  {
+    "id": "JE07",
+    "date": "2022-10-09T12:02:26Z",
+    "summary": "This is mock gratitude journal entry number 7",
+    "coverPhoto": null,
+    "otherPhotos": null,
+    "tags": [
+      "Journal tag #1",
+      "Journal tag #2"
+    ]
+  },
+  {
+    "id": "JE08",
+    "date": "2022-11-08T12:02:26Z",
+    "summary": "This is mock gratitude journal entry number 8",
+    "coverPhoto": null,
+    "otherPhotos": null,
+    "tags": null
+  },
+  {
+    "id": "JE09",
+    "date": "2022-10-08T12:02:26Z",
+    "summary": "This is mock gratitude journal entry number 9",
+    "coverPhoto": null,
+    "otherPhotos": null,
+    "tags": [
+      "Journal tag #1"
+    ]
+  },
+  {
+    "id": "JE10",
+    "date": "2021-10-08T12:02:26Z",
+    "summary": "This is mock gratitude journal entry number 10",
+    "coverPhoto": null,
+    "otherPhotos": null,
+    "tags": null
+  }
+]
