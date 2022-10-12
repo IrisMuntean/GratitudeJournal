@@ -3,7 +3,6 @@ package com.iris.gratitudejournal.data
 import android.content.Context
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import com.iris.gratitudejournal.models.JournalDataSource
 import com.iris.gratitudejournal.models.JournalEntry
 import java.io.IOException
 

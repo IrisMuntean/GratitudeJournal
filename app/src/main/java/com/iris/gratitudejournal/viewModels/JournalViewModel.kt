@@ -25,7 +25,6 @@ class JournalViewModel(
                 isLoading = false,
                 journalEntries = repository.allJournalEntries(context)
             )
-
         }
     }
 }

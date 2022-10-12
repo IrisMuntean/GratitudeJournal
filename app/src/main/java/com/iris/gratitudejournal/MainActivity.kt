@@ -3,6 +3,7 @@ package com.iris.gratitudejournal
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.activity.viewModels
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.*
@@ -23,12 +24,12 @@ import com.iris.gratitudejournal.data.LocalJournalSource
 import com.iris.gratitudejournal.screens.DetailsScreen
 import com.iris.gratitudejournal.screens.ListScreen
 import com.iris.gratitudejournal.ui.theme.GratitudeJournalTheme
+import com.iris.gratitudejournal.viewModels.JournalViewModelFactory
 
 class MainActivity : ComponentActivity() {
-    private val journalViewModel = JournalViewModel(
-        this,
-        JournalEntriesRepository(LocalJournalSource())
-    )
+    private val journalViewModel: JournalViewModel by viewModels {
+        JournalViewModelFactory(this, JournalEntriesRepository(LocalJournalSource()))
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
